@@ -1,6 +1,6 @@
-## Bem-vindo😠
+## Bem-vindo
 
-*Hi my name is dekote and i'm sigma😎*
+*Hi my name is dekote*
 
 estou estudando alura
 me desenvolvendo no Javascript
